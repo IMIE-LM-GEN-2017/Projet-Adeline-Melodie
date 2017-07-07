@@ -1,4 +1,4 @@
-# lol : Site de gestion de réservation
+# Projet : Site de gestion de réservation
 
 **Localisation** : Le Mans ( pour commencer) 
 
