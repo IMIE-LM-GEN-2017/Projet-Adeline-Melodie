@@ -1,0 +1,89 @@
+/*css*/
+
+	
+		
+	.description {
+	width:1885px;
+	height:400px;
+	background-color:bisque;
+	text-align:center;
+	}
+	.restaurant {
+	width:1885px;
+	height:1000px;
+	background-color:bisque;
+	text-align:center;
+	}
+	.avis {
+	width:1885px;
+	height:400px;
+	background-color:bisque;
+	text-align:center;
+	}
+	#menu{
+		width:1885px;
+	height:50px;
+	background-color:bisque;
+	text-align:center;
+	}
+	* { box-sizing: border-box; }
+
+/* force scrollbar */
+html { overflow-y: scroll; }
+
+body { font-family: sans-serif; }
+
+/* ---- grid ---- */
+
+.mozaïque {
+  background:black;
+  margin-left:800px;
+  margin-right:800px;
+}
+
+/* clear fix */
+.mosaïque:after {
+  content: '';
+  display: block;
+  clear: both;
+  
+}
+
+/* ---- .grid-item ---- */
+
+.taille mo{ 
+  margin-top: -5px; 
+  text-align: center; 
+} 
+.images {
+  
+}
+.img tab {
+  float: left;
+  width:150px;
+  height:170px;
+}
+
+.images img {
+  display: block;
+  width:100%;
+}
+	
+	
+	
+
+		
+		
+     
+.titre {
+    position:absolute;
+	margin-left:400px;
+    top: 31px;
+    font-family: Gabriola, "Gentium Basic", Georgia;
+    font-size: 50px;
+    color:#FFFFFF;
+	}
+	
+	body{
+		background-color: sienna;
+	}
