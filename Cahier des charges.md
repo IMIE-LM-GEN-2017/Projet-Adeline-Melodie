@@ -40,18 +40,29 @@ A découvrir
 
 **Décrire les fonctionnalitées de l'application/site:**
 
+
+
+
 	- PAGE D'ACCEUIL
 
+- Taille de police : 
+	- 25px pour le titre h1
+	- 20px pour le reste de la page
+- Fond d'écran est en 3 sections 
+	- le titre et l'image est en fond d'écran "lightcyan"
+	- la partie du milieu (présentation des restaurants) sont en bisque
+	- la dernier partie est en "Sienna
+- Titre du site 
 - Grande photo pour le site
-- Titre du site
 - Logo acceuil en haut à gauche( qui revient à chaque click sur la page d'acceuil)
 - panier et bouton inscription en haut à droite
--  Description
+- Description
 - Bouton/lien "accéder aux restaurants"
+- Avis en rond en fond blanc
 - Bas de page (mentions légales, 'nous contacter',)
 
 	-PAGE RESTAURANTS
-	
+
 - Filtres : prix, étoiles, lieux, activités ( recherche les restaurants proche de l'activité), transports (recherche les restaurants proche des transports),
 - géolocalisation 
 - Panier
@@ -66,6 +77,11 @@ A découvrir
 - réservation/panier 
 - nombres de réservations limité
 - défénir les plages horaires des services
+- La police : Gabriola, "Gentium Basic", Georgia
+- taille de l'écriture 
+	-25px pour les titres h1
+	-20px sur le reste de la page
+- le fond d'écran est bisque
 
 
 
