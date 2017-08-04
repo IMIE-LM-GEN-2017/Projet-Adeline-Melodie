@@ -1,29 +1,55 @@
 /*css*/
+.btnA{
+	background-color:dimgray ;
+}
 
+
+
+
+
+#contenu{
+	margin-left: 1400px;
 	
+}
+
 		
 	.description {
-	width:1885px;
+	width:1585px;
 	height:400px;
-	background-color:bisque;
+	background-color:dimgray;
+	margin:auto;
 	text-align:center;
+	moz-border-radius:50px;
+	webkit-border-radius:50px;
+	border-radius:50px;" 
+	
+
 	}
 	.restaurant {
-	width:1885px;
-	height:1000px;
-	background-color:bisque;
+	width:1585px;
+	height:800px;
+	margin:auto;
+	background-color:dimgray;
 	text-align:center;
+	moz-border-radius:50px;
+	webkit-border-radius:50px;
+	border-radius:50px;" 
+
 	}
-	.avis {
+	#avis {
 	width:1885px;
 	height:400px;
-	background-color:bisque;
 	text-align:center;
+	font-size: 50px;
+	moz-border-radius:50px;
+	webkit-border-radius:50px;
+	border-radius:50px;" 
+
 	}
 	#menu{
 		width:1885px;
 	height:50px;
-	background-color:bisque;
+	background-color:dimgray;
 	text-align:center;
 	}
 	* { box-sizing: border-box; }
@@ -31,59 +57,107 @@
 /* force scrollbar */
 html { overflow-y: scroll; }
 
-body { font-family: sans-serif; }
+body { font-family: Gabriola, "Gentium Basic", Georgia;
+	   font-size: 20px;
+	  
+	   background-image:url(http://www.wallpapers-mania.org/images/Deco/fond-page-web-planches-noires-verticales.jpg);
+	   background-attachment:fixed;
+	   background-repeat:no-repeat;
+	 }
 
-/* ---- grid ---- */
-
-.mozaïque {
-  background:black;
-  margin-left:800px;
-  margin-right:800px;
+head {
+	font-family: Gabriola, "Gentium Basic", Georgia;
 }
 
-/* clear fix */
-.mosaïque:after {
-  content: '';
-  display: block;
-  clear: both;
-  
-}
+h1{font-family: Gabriola, "Gentium Basic", Georgia;
+color:white;
+text-align: center;
+font-size:50px;
 
-/* ---- .grid-item ---- */
-
-.taille mo{ 
-  margin-top: -5px; 
-  text-align: center; 
-} 
-.images {
-  
-}
-.img tab {
-  float: left;
-  width:150px;
-  height:170px;
-}
-
-.images img {
-  display: block;
-  width:100%;
 }
 	
-	
-	
-
-		
-		
-     
-.titre {
+	#titre {
     position:absolute;
 	margin-left:400px;
     top: 31px;
     font-family: Gabriola, "Gentium Basic", Georgia;
-    font-size: 50px;
+    font-size: 5%;
     color:#FFFFFF;
 	}
 	
-	body{
-		background-color: sienna;
+	.crcl1{
+	background: rgb(255,255,255);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 5%;
+    border: 1px rgba(255,255,255) solid;
+    
 	}
+ 
+	.txt_crcl1{
+    color: black;
+    text-align: center;
+    
+ 	}
+
+ 	.crcl2{
+	background: rgb(255,255,255);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 5%;
+    border: 1px rgba(255,255,255) solid;
+    
+	}
+ 
+	.txt_crcl2{
+    color: black;
+    text-align: center;
+    
+ 	}
+ 	.crcl3{
+	background: rgb(255,255,255);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 5%;
+    border: 1px rgba(255,255,255) solid;
+    
+	}
+ 
+	.txt_crcl3{
+    color: black;
+    text-align: center;
+    
+ 	}
+ 	.crcl4{
+    background: rgb(255,255,255);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    top: 25%;
+    left: 5%;
+    border: 1px rgba(255,255,255) solid;
+    
+	}
+ 
+	.txt_crcl4{
+    color: black;
+    text-align: center;
+    }
+
+    .tabavis{width: 100%;
+    	font-size: 15px;
+    	margin-left: 100px;
+
+    }
+    .titreavis{
+    	font-size: 20px;
+
+    }
+
+    
