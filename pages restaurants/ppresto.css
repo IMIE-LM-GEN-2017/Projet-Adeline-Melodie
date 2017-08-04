@@ -1,0 +1,76 @@
+body{
+background-color: dimgray;
+font-family: Gabriola, "Gentium Basic", Georgia;
+font-size: 20px;
+text-align: center;
+}
+
+#description{
+text-align: center;
+width: 600px ;
+height : 600px;
+background: dimgray;
+}
+
+.restaurant{
+text-align: center;
+width: 600px ;
+height : 600px;
+background: green;
+}
+
+#photo1{
+  font-size: 30px;
+text-align:center
+
+}
+
+#desc2{
+text-align: center;
+background: lightcyan;
+
+}
+
+
+table th { 
+background: lightcyan;
+ border-collapse: collapse;
+
+}
+
+table td {
+ 
+background: snow;
+ border-collapse: collapse;
+}
+table {
+    width: 100%;
+}
+table tr{
+	 border-collapse: collapse;
+}
+.M{
+border-collapse: collapse;
+}
+.P{
+  border-collapse: collapse;
+
+}
+
+#bouttonPanier{
+
+}
+#avis{
+	background: lightcyan;
+}
+#Commentaires{
+	background: lightcyan;
+}
+
+/* Formulaire : Laissé un commentaire */
+
+#formulaire{
+
+
+}
+
